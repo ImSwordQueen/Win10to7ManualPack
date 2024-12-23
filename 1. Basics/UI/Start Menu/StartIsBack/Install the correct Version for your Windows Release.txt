@@ -1,5 +1,0 @@
-8.0 = Build 9200
-
-8.1 = Build 9600
-
-DO NOT CONFUSE THEM!!
