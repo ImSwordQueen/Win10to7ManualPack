@@ -24,15 +24,8 @@ ExplorerPatcher: Valinet, amrsatrio (https://github.com/valinet/ExplorerPatcher)
 
 Developer Preview Ribbon was taken from here: https://www.deviantart.com/eggi36/art/Windows-8-Consumer-Preview-Theme-410868376
 
-Modified alternative OldNewExplorer b/f buttons: Vruh2
-
-8.0 uDWM.dll Left centered text: Vruh2, Win32 and SHA05
-
-8.1 Shell32 Legacy file transfer dialog patch: jevil#7452
-
 Thanks to these people:
 door257
 Dominic Hayes The Linux Dude
 Ojas (Rectify11 Dev)
 /usr/bin/windowssaturn/#6802
-Cliffford W.
