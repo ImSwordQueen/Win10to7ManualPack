@@ -1,1 +1,0 @@
-Replace the images in "Windows.UI.Immersive.dll" with the ones included in the res file in here.

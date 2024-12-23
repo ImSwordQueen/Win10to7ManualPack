@@ -1,0 +1,1 @@
+You only need to use resource hacker if you wanna import the icons manually.
