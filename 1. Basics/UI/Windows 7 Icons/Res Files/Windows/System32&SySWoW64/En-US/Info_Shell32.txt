@@ -1,2 +1,0 @@
-Put the res file inside shell32.dll.mui if you are on windows 8.1 (6.3 9600)
-Put the res file inside Shell32.dll if you are on windows 8 (6.2 9200)
