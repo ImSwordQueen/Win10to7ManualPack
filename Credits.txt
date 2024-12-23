@@ -14,6 +14,8 @@ Original Windows 7 Pack: TrigrZolt (https://www.youtube.com/watch?v=SISUMjSrLJM)
 
 Inspiration: TrigrZolt
 
+Helped with gathering some files for the pack: xodus
+
 OpenGlass: altaleX531 (https://github.com/altaleX531/openglass) 
 
 Aero Window Mananger: Dulappy (https://github.com/dulappy/aero-window-manager/)
