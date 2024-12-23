@@ -1,0 +1,38 @@
+              /\ /\                           /\ /\             _________                    .___.__  __                        /\ /\                           /\ /\             
+             / / \ \                         / / \ \            \_   ___ \_______   ____   __| _/|__|/  |_  ______             / / \ \                         / / \ \            
+  ______    / /   \ \    ______   ______    / /   \ \    ______ /    \  \/\_  __ \_/ __ \ / __ | |  \   __\/  ___/  ______    / /   \ \    ______   ______    / /   \ \    ______ 
+ /_____/   / /     \ \  /_____/  /_____/   / /     \ \  /_____/ \     \____|  | \/\  ___// /_/ | |  ||  |  \___ \  /_____/   / /     \ \  /_____/  /_____/   / /     \ \  /_____/ 
+          / /       \ \                   / /       \ \          \______  /|__|    \___  >____ | |__||__| /____  >          / /       \ \                   / /       \ \         
+          \/         \/                   \/         \/                 \/             \/     \/               \/           \/         \/                   \/         \/         
+
+
+Creator: ImSwordQueen
+
+Theme Creator: Vaporvance (https://www.deviantart.com/vaporvance/art/Aero10-for-Windows-10-1903-22H2-909711949)
+
+Original Windows 7 Pack: TrigrZolt (https://www.youtube.com/watch?v=SISUMjSrLJM)
+
+Inspiration: TrigrZolt
+
+OpenGlass: altaleX531 (https://github.com/altaleX531/openglass) 
+
+Aero Window Mananger: Dulappy (https://github.com/dulappy/aero-window-manager/)
+
+StartIsBack and OldNewExplorer: Tihiy (https://www.startisback.com/) (https://msfn.org/board/topic/170375-oldnewexplorer-119/)
+
+ExplorerPatcher: Valinet, amrsatrio (https://github.com/valinet/ExplorerPatcher)
+
+Developer Preview Ribbon was taken from here: https://www.deviantart.com/eggi36/art/Windows-8-Consumer-Preview-Theme-410868376
+
+Modified alternative OldNewExplorer b/f buttons: Vruh2
+
+8.0 uDWM.dll Left centered text: Vruh2, Win32 and SHA05
+
+8.1 Shell32 Legacy file transfer dialog patch: jevil#7452
+
+Thanks to these people:
+door257
+Dominic Hayes The Linux Dude
+Ojas (Rectify11 Dev)
+/usr/bin/windowssaturn/#6802
+Cliffford W.

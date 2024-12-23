@@ -1,0 +1,1 @@
+Backup your registry tweaks if you want to revert back to the 8.x style.

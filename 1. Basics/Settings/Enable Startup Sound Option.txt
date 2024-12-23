@@ -1,0 +1,7 @@
+"HKEY_CURRENT_USER > AppEvents > EventLabels > WindowsLogon."
+
+Double-click the entry ExcludeFromCPL from the right side. Replace the value data field with 0 instead of 1 and press OK or Enter.
+
+Do the same for Windows Logon.
+
+https://www.digitalcitizen.life/windows-10-start-sound-windows-7/

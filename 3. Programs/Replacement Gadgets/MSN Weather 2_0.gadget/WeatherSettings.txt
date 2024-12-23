@@ -1,0 +1,3 @@
+WeatherLocation=(closest location: Milan, Italy)
+WeatherLocationCode=wc:ITXX0042
+DisplayDegreesIn=Celsius

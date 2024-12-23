@@ -1,0 +1,111 @@
+4.0 - "Windows 10 Certified"
+
+- TBD
+
+_____________________________________
+3.1 - "Kitchen gun verified!" (8to7)
+
+- Verified to now install successfully on non-English Windowses (ja-JP tested).
+- Fixed alignment issues with AERO Lite in 8.1.
+- AERO Lite got a minor makeover to fit in better.
+- Getting Started is now in Control Panel.
+- Added some easter eggs to the installer in the form of phrases to type into the installer before doing anything else.
+- All Programs now has its Windows 7 layout.
+- Restoration now deletes folders emptied by the restoration.
+- Cleaned up the code a ton, and removed a few redundant things like switching to AERO Lite during Setup.
+- Window Colour and Appearance now works again on all languages.
+- Setup now has an update check that can be dismissed on pre-transformation launches.
+- Replaced the Windows 8's notification sounds with Windows 8 Release Preview's versions.
+- New splash screen while preparing the installer (no points to whoever can find the reference).
+- You can now make Win+X use the Windows 7 layout (We are not going to judge you).
+_____________________________________
+_____________________________________
+
+Older releases of the transformation pack:
+_____________________________________
+3.0 - "Automation or not automation?" 
+
+- NOW AUTOMATED... mostly - Win8To7 now comes in the form of an installer you can use to transform Windows 8 and 8.1 with ease.
+- You can now easily revert the transformation at any time.
+- Added option to delete backed up system files and settings if you want to make the transformation permanent.
+- You can now choose whether or not you want to keep the Chocolate window color, Automatic window color, or even keep both options in Window Color and Appearance.
+- Fixed Frost Window Color applying Automatic Window Color.
+- Added optional UserCPL patch (optional because it's partially functional).
+- Added option to disable the lock screen pull-up.
+- FirstLogonAnim is now removed for faster first logins.
+- Added Registry changes, and configurations for the Start Menus, 7 Taskbar Tweaker, and other installed software.
+
+- Added 'Windows Basic' theme and style.
+- Windows 7's High Contrast styles have been ported to Windows 8.x's High Contrast format.
+- Windows 7's Windows Classic theme has been ported to Windows 8.x's equivalent of the Classic theme.
+- New "Getting Started" application (a slightly improved/future-proofed replica of the real deal).
+- Charms Bar is now styled after the one seen in Windows 8 Developer Preview.
+- PC Settings and Store are now (mostly) styled after their Developer Preview and Consumer Preview counterparts respectively.
+- Oh, and the Store tile patch no longer breaks Store.
+- Added CSS patches for Store.
+- The camera tile now has the 8400's color tile by default.
+- Desktop now has a different tile color and icon.
+- Windows Update's Self Updater has the 7's icon instead of the default one.
+- Added Sample Pictures, Sample Music, and Sample Videos.
+- Added Sample Folders to Libraries in 8.0 and 8.1.
+- Now has branding for Windows 8 Core.
+- Fixes to issues like themes lacking sounds.
+- Added desktop.ini Windows 7 translations for Start Menu directories, among some other folders.
+- Even more changes to make this truly the biggest release ever made.
+_____________________________________
+_____________________________________
+2.4 - "Cleanup Highway" (Manual Transformation)
+
+- Removed some duplicates of already existing files.
+- Replaced some simplexdesigns' resources with brand new ones.
+- Renamed "1. Important" to "1. Basics".
+- Added 8.0 Left aligned text patch.
+- Added 8.1 Fixed offset left aligned text patch.
+- Updated Credits.txt to reflect some of the changes made in this version.
+- Added 8.1 Legacy file transfer patch (test mode required)
+- Added some sha256 hashes for certain files.
+- "Dangerous" has been moved to extras and it's obsolete and unsupported.
+- Added "Replacement Gadgets".
+- Removed broken programs.
+- Added more compability and features for 8.0.
+- Added 7 sounds registry tweak.
+- Added a "With Sound Registry Patch Themes" section for people who use the sounds registry tweak.
+- Moved "Windows 7 Icons" into "Basics\UI".
+- Moved the lockscreen wallpapers into extras.
+- Added 7's WinSAT icons for 8.0.
+- Updated both themes to include the win7's show desktop button on ex7forw8.
+_____________________________________
+_____________________________________
+2.3 - Codename "Dangerous Sky" (Manual Transformation)
+
+- Updated the shine and non shine versions of the themes (thx vruh2)
+- Added modified OldNewExplorer alternative b/f buttons. 
+_____________________________________
+_____________________________________
+2.2 - Codename "Regional Sky" (Manual Transformation)
+
+- No Shine version added.
+- Updated rebar toolbar background.
+- Fixed Alt+Tab.
+- Added regional themes: Australia, Canada, United Kingdom, United States, South Africa.
+
+- Added Media Center installer that no longer needs a ProWMC key.
+- Removed the outdated section. it's no longer needed.
+- Renamed "Optional" into "Extras".
+- Reworded some parts of the pack.
+- AutomaticSetup has been moved from an ipack installer to 7tsp.
+- Added some tweaks in "Settings" that can be enabled on 8.x.
+- Added Win7's RibbonUI. 
+- Added Aero displayswitch.
+_____________________________________
+_____________________________________
+2.1 - Codename "Pie And Dreams" (Manual Transformation)
+
+Added aero Alt+Tab.
+Fixed aero Alt+Tab text.
+Moved some "Important" folders into the "UI" folder.
+Added the link for the uDWM.dll github modification.
+_____________________________________
+
+2.0 - Release (Manual Transformation)
+1.0 - Release (Manual Transformation)

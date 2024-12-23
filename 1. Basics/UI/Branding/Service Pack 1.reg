@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion]
+"CSDVersion"="Service Pack 1"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Windows]
+"CSDVersion"=dword:00000100
+"CSDReleaseType"=dword:00000000
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\Windows]
+"CSDVersion"=dword:00000100
+"CSDReleaseType"=dword:00000000
