@@ -1,0 +1,6 @@
+1. Open Resource hacker
+2. Open and basebrd.dll basebrd.dll.mui
+3. Action > Add from a Resource file (*.res)
+4. Select the basebrd.dll or basebrd.dll.mui.res file
+5. Overwrite and select Bitmap and String table
+6. Save file

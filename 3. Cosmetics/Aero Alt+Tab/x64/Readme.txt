@@ -1,0 +1,1 @@
+You need "Windows 7 Alt+Tab Loader" to use Windows 7's AltTab

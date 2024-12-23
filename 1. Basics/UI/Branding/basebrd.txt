@@ -1,3 +1,0 @@
-DO NOT TOUCH basebrd.dll!!
-
-IT WILL BREAK ACTIVATION!!
