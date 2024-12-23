@@ -3,6 +3,10 @@
 - TBD
 
 _____________________________________
+_____________________________________
+Older releases of the transformation pack:
+_____________________________________
+_____________________________________
 3.1 - "Kitchen gun verified!" (8to7)
 
 - Verified to now install successfully on non-English Windowses (ja-JP tested).
@@ -18,10 +22,6 @@ _____________________________________
 - Replaced the Windows 8's notification sounds with Windows 8 Release Preview's versions.
 - New splash screen while preparing the installer (no points to whoever can find the reference).
 - You can now make Win+X use the Windows 7 layout (We are not going to judge you).
-_____________________________________
-_____________________________________
-
-Older releases of the transformation pack:
 _____________________________________
 3.0 - "Automation or not automation?" 
 
