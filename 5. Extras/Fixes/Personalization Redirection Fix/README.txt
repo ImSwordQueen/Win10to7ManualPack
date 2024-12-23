@@ -1,0 +1,1 @@
+Import this reg file on a TrustedInstaller regedit instance.
