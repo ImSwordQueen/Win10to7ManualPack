@@ -1,0 +1,117 @@
+Windows Registry Editor Version 5.00
+
+; Created with Winaero Tweaker 1.55.0.0
+; https://winaero.com
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}]
+@="Homegroup"
+"CreatedBy"="Winaero Tweaker"
+"InfoTip"="shell:::{b4fb3f98-c1ea-428d-a78a-d1f5659cba93}"
+"{305ca226-d286-468e-b848-2b2e8e697b74} 2"=dword:ffffffff
+"DescriptionID"=dword:00000003
+"System.IsPinnedtoNameSpaceTree"=dword:00000001
+"SortOrderIndex"=dword:00000046
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\DefaultIcon]
+@="C:\\WINDOWS\\system32\\imageres.dll,-1013"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\InProcServer32]
+@="shdocvw.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\Instance]
+"CLSID"="{0afaced1-e828-11d1-9187-b532f1e9575d}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\Instance\InitPropertyBag]
+"Attributes"=dword:00000015
+"Target"=hex(2):73,00,68,00,65,00,6c,00,6c,00,3a,00,3a,00,3a,00,7b,00,62,00,34,\
+  00,66,00,62,00,33,00,66,00,39,00,38,00,2d,00,63,00,31,00,65,00,61,00,2d,00,\
+  34,00,32,00,38,00,64,00,2d,00,61,00,37,00,38,00,61,00,2d,00,64,00,31,00,66,\
+  00,35,00,36,00,35,00,39,00,63,00,62,00,61,00,39,00,33,00,7d,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers\tab 1 general]
+@="{21b22460-3aea-1069-a2dc-08002b30309d}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers\tab 2 customize]
+@="{ef43ecfe-2ab9-4632-bf21-58909dd177f0}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers\tab 3 sharing]
+@="{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers\tab 4 security]
+@="{1f2e5c40-9550-11ce-99d2-00aa006e086c}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellFolder]
+"Attributes"=dword:f080004d
+"WantsFORPARSING"=""
+"HideAsDeletePerUser"=""
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}]
+@="Homegroup"
+"CreatedBy"="Winaero Tweaker"
+"InfoTip"="shell:::{b4fb3f98-c1ea-428d-a78a-d1f5659cba93}"
+"{305ca226-d286-468e-b848-2b2e8e697b74} 2"=dword:ffffffff
+"DescriptionID"=dword:00000003
+"System.IsPinnedtoNameSpaceTree"=dword:00000001
+"SortOrderIndex"=dword:00000046
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\DefaultIcon]
+@="C:\\WINDOWS\\system32\\imageres.dll,-1013"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\InProcServer32]
+@="shdocvw.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\Instance]
+"CLSID"="{0afaced1-e828-11d1-9187-b532f1e9575d}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\Instance\InitPropertyBag]
+"Attributes"=dword:00000015
+"Target"=hex(2):73,00,68,00,65,00,6c,00,6c,00,3a,00,3a,00,3a,00,7b,00,62,00,34,\
+  00,66,00,62,00,33,00,66,00,39,00,38,00,2d,00,63,00,31,00,65,00,61,00,2d,00,\
+  34,00,32,00,38,00,64,00,2d,00,61,00,37,00,38,00,61,00,2d,00,64,00,31,00,66,\
+  00,35,00,36,00,35,00,39,00,63,00,62,00,61,00,39,00,33,00,7d,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers\tab 1 general]
+@="{21b22460-3aea-1069-a2dc-08002b30309d}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers\tab 2 customize]
+@="{ef43ecfe-2ab9-4632-bf21-58909dd177f0}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers\tab 3 sharing]
+@="{f81e9010-6ea4-11ce-a7ff-00aa003ca9f6}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellEx\PropertySheetHandlers\tab 4 security]
+@="{1f2e5c40-9550-11ce-99d2-00aa006e086c}"
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\Wow6432Node\CLSID\{a3514934-68d7-459e-919c-c7324f1facf0}\ShellFolder]
+"Attributes"=dword:f080004d
+"WantsFORPARSING"=""
+"HideAsDeletePerUser"=""
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{a3514934-68d7-459e-919c-c7324f1facf0}]
+"CreatedBy"="Winaero Tweaker"
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
+"{a3514934-68d7-459e-919c-c7324f1facf0}"=dword:00000001
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{a3514934-68d7-459e-919c-c7324f1facf0}]
+"CreatedBy"="Winaero Tweaker"
+
+
+[HKEY_CURRENT_USER\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
+"{a3514934-68d7-459e-919c-c7324f1facf0}"=dword:00000001
+
