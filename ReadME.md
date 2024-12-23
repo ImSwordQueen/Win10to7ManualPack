@@ -1,3 +1,9 @@
+# Windows 10to7 Manual Transformation Pack
+
+Basically a harder and manual version of 21H2to7.
+
+## This readme is a work in progress. Come check it later.
+
 Thanks for downloading this transformation pack.
 
 This is a major update for my Windows 8.1 to Windows 7 Transformation Pack, now taking the form of an easy-to-use installer that transforms the whole system for you. It is not 100% perfect so don't be disappointed that it doesn't look 100% like Windows 7.
