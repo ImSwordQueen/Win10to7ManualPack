@@ -1,27 +1,16 @@
-Accent Color Sync
-
-Aerexplorer
-
-Aero Flyout Fix
-
-Basic Themer
-
-DWM Uextended Frames
-
-Eradicate Immersive Menus
-
-Fix Basic Caption Text
-
-Legacy File Copy
-
-Logon, Logoff & Shutdown Sounds Restored
-
-Old This PC Commands
-
-Resource Redirect
-
-Windows 7 Alt+Tab Loader
-
-Windows 7 Style UAC Dim
-
-Startisback++ Tweaker (Only if using StartIsBack++)
+•	Accent Color Sync
+•	Aerexplorer
+•	Aero Flyout Fix
+•	Aero Tray (Only if using StartIsBack++)
+•	Basic Themer
+•	DWM Unextend Frames
+•	Eradicate Immersive Menus
+•	Fix Basic Caption Text
+•	Legacy File Copy
+•	Logon, Logoff & Shutdown Sounds Restored
+•	Old This PC Commands
+•	Resource Redirect
+•	Windows 7 Alt+Tab Loader
+•	Windows 7 Style UAC Dim
+•	Windows 7 Clock Spacing (Only if using StartIsBack++)
+•	Startisback++ Tweaker (Only if using StartIsBack++)
