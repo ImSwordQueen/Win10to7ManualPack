@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\FolderDescriptions\{CAC52C1A-B53D-4edc-92D7-6B2E8AC19434}]
+"Category"=dword:00000001
+"Name"="Games"
+"ParsingName"="::{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}"
+
