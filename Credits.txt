@@ -20,11 +20,23 @@ OpenGlass: altaleX531 (https://github.com/altaleX531/openglass)
 
 Aero Window Mananger: Dulappy (https://github.com/dulappy/aero-window-manager/)
 
+Windhawk: m417z (https://windhawk.net/)
+
 StartIsBack and OldNewExplorer: Tihiy (https://www.startisback.com/) (https://msfn.org/board/topic/170375-oldnewexplorer-119/)
 
 ExplorerPatcher: Valinet, amrsatrio (https://github.com/valinet/ExplorerPatcher)
 
 Developer Preview Ribbon was taken from here: https://www.deviantart.com/eggi36/art/Windows-8-Consumer-Preview-Theme-410868376
+
+ConsoleLogonHook: wiktorwiktor12 (https://github.com/wiktorwiktor12/ConsoleLogonHook)
+
+CPL Restoration: Brawllux (https://winclassic.net/thread/1779/restoring-control-panel-applets-windows)
+
+Windows Media Center: garyan2 (https://garyan2.github.io/win10.html)
+
+Various Windows 7 programs: win7games (https://win7games.com/)
+
+Various tools in cosmetics: Audymori
 
 Thanks to these people:
 door257

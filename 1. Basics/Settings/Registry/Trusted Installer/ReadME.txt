@@ -1,0 +1,1 @@
+Swatches requires themecpl7 in System32 to work correctly.
