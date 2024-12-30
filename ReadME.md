@@ -15,4 +15,7 @@ Basically, a manual version of the [21H2to7 Transformation Pack](https://www.dev
 > YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you. 
 
 
+##  🧑‍💻 Contributing
+Any contribution is greatly appreciated.
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/imswordqueen)
