@@ -8,7 +8,7 @@ Basically, a manual version of the [21H2to7 Transformation Pack](https://www.dev
 >
 > Your warranty is now v- Does windows even have a warranty?
 >
-> I am not responsible for bricked devices, dead SSDs/Hard Drives/EMMC Storage, thermonuclear war, or you getting fired because the office stopped working.
+> I am not responsible for bricked devices, dead SSDs/Hard Drives/EMMC Storage, thermonuclear war, or you getting fired because the office suite stopped working.
 >
 > Please do some research if you have any concerns about features included in this pack before installing it!
 >
