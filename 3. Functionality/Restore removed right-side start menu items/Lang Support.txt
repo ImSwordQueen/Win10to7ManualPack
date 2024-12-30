@@ -1,0 +1,1 @@
+Help and Support will default to the english string unless the string tables 438 and 439 have beeen imported from Windows 7 inside Windows 10 explorer's MUI.
