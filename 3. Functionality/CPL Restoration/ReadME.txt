@@ -1,0 +1,1 @@
+This is a local copy of CPL Restoration 4.0 H1. If you want the most up to date version you can find it here: https://winclassic.net/thread/1779/restoring-control-panel-applets-windows
