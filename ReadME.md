@@ -3,7 +3,17 @@
 
 ![Preview of 21H2to7](https://github.com/ImSwordQueen/Win10to7ManualPack/blob/main/Finished_Product.png)
 
+> [!WARNING]
+>
+> # This pack is no longer getting updates and should be considered EoL.
+>
+> Do not expect this pack to work on anything other than Windows 10.
+>
+
 Basically, a manual version of the [21H2to7 Transformation Pack](https://www.deviantart.com/imswordqueeen/art/Windows-10-21H2-22H2-to-7-Transformation-Pack-1081353677) with guides for each section
+
+
+
 > [!WARNING]
 >
 > Your warranty is now v- Does windows even have a warranty?
